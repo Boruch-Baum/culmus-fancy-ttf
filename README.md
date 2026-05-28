@@ -1,3 +1,16 @@
+# culmus-fancy-ttf --IMPORTANT NOTE--
+
+__2026-05-28:__ Github user @amiad has forked and updated this\
+repository, so please from this point forward use his version\
+instead of mine. You can find his fork at:
+
+https://github.com/amiad/culmus-fancy-ttf
+
+I am retiring this repository and changing its status to\
+'___archived___' in his favor. The old readme.md text follows.
+<hr>
+
+
 # culmus-fancy-ttf
 
 TrueType versions of the Hebrew fonts from package '[culmus-fancy](http://culmus.sourceforge.net/)'.
